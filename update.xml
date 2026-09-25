@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
     <version>1.0.0</version>
-    <url>https://github.com/CK-INFO25/CK-INFO-Diagnostic/releases/download/1.0.0/CK-INFO%20Diagnostic.exe</url>
-    <changelog>https://github.com/CK-INFO25/CK-INFO-Diagnostic/releases/tag/1.0.0</changelog>
+    <url>https://github.com/CK-INFO25/CK-INFO-Diagnostic/releases/latest/download/CK-INFO%20Diagnostic.exe</url>
+    <changelog>https://github.com/CK-INFO25/CK-INFO-Diagnostic/releases/latest</changelog>
     <mandatory>false</mandatory>
 </item>
